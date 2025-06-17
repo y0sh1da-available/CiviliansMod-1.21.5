@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": "minecraft:redstone",
+    "A": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    "RRR",
+    "RAR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "civiliansmod:npctotem"
+  }
+}
